@@ -1,0 +1,16 @@
+[
+  {
+    "id": 8355206,
+    "author": "George Orwell",
+    "cover": "https://example.com/1984-cover.jpg",
+    "description": "A dystopian novel set in a totalitarian society ruled by Big Brother.",
+    "name": "1984"
+  },
+  {
+    "id": 8284007,
+    "author": "Jane Austen",
+    "cover": "https://example.com/pride-and-prejudice-cover.jpg",
+    "description": "A romantic novel that charts the emotional development of the protagonist Elizabeth Bennet.",
+    "name": "Pride and Prejudice"
+  }
+]
