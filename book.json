@@ -1,16 +1,1 @@
-[
-  {
-    "id": 8355206,
-    "author": "George Orwell",
-    "cover": "https://example.com/1984-cover.jpg",
-    "description": "A dystopian novel set in a totalitarian society ruled by Big Brother.",
-    "name": "1984"
-  },
-  {
-    "id": 8284007,
-    "author": "Jane Austen",
-    "cover": "https://example.com/pride-and-prejudice-cover.jpg",
-    "description": "A romantic novel that charts the emotional development of the protagonist Elizabeth Bennet.",
-    "name": "Pride and Prejudice"
-  }
-]
+[{"id":8355206,"author":"George Orwell","cover":"uploads/1723013338484-268594285-WechatIMG1651.jpg","description":"A dystopian novel set in a totalitarian society ruled by Big Brother.","name":"1984"},{"id":8284007,"author":"Jane Austen","cover":"uploads/1723013338484-268594285-WechatIMG1651.jpg","description":"A romantic novel that charts the emotional development of the protagonist Elizabeth Bennet.","name":"Pride and Prejudice"},{"id":8728633,"author":"linzheng","cover":"uploads/1723013338484-268594285-WechatIMG1651.jpg","description":"sdsadsa","name":"1999"},{"id":5981922,"author":"dsada","cover":"uploads/1723022107816-861455410-Snipaste_2024-08-07_14-46-23.png","description":"aaaaaaa","name":"custom"}]

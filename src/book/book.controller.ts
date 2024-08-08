@@ -7,6 +7,7 @@ import {
   Param,
   Post,
   Put,
+  Query,
   UploadedFile,
   UseInterceptors,
 } from '@nestjs/common';
@@ -22,8 +23,8 @@ export class BookController {
   constructor(private readonly bookService: BookService) {}
 
   @Get('list')
-  async list() {
-    return this.bookService.list();
+  async list(@Query('name') name: string) {
+    return this.bookService.list(name);
   }
 
   @Get(':id')
